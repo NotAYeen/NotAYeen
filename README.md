@@ -96,13 +96,17 @@ I believe apps should be *elegant inside and out*.
 
 <br>
 
-<!-- ============ BANNER STATS ============ -->
+<!-- ============ BANNER SNAKE ============ -->
 <div align="center">
-  <b>📊 MIS ESTADÍSTICAS</b>
+  <b>🐍 MIS CONTRIBUCIONES</b>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NotAYeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="580">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotAYeen/NotAYeen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotAYeen/NotAYeen/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotAYeen/NotAYeen/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
