@@ -102,8 +102,7 @@ I believe apps should be *elegant inside and out*.
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotAYeen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAYeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=NotAYeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="580">
 </p>
 
 <br>
@@ -114,7 +113,7 @@ I believe apps should be *elegant inside and out*.
 </div>
 
 <p align="center">
-  Portafolio y demos: <a href="https://notayeen.github.io/">notayeen.github.io</a> 🚀
+  Portafolio y demos: <a href="https://notayeen.github.io/Servicios/">notayeen.github.io/Servicios</a> 🚀
   <br><br>
   <a href="https://github.com/NotAYeen">
     <img src="https://img.shields.io/badge/GitHub-NotAYeen-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -125,7 +124,7 @@ I believe apps should be *elegant inside and out*.
 
 <div align="center">
   <hr width="60%">
-  <sub><b>Hecho con demasiada obsessión por los detalles · NotAYeen 🐑</b></sub>
+  <sub><b>Hecho con demasiada obsesión por los detalles · NotAYeen 🐑</b></sub>
   <br>
  
 </div>
